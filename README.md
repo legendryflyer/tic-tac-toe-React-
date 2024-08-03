@@ -1,5 +1,12 @@
 click---> https://tic-tac-toe-react-roan-nine.vercel.app/
 
+Preview-->
+
+
+https://github.com/user-attachments/assets/8383eea6-6fd7-4ae5-bded-8ef6fd9f7476
+
+
+
 
 # React + Vite
 
